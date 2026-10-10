@@ -1,0 +1,6 @@
+{
+  "name": "JA",
+  "description": "JA - Cute 2D Anime AI Voice Assistant with Live Calling, Social Media upload workflows, CapCut editing commands, and intelligent phone automation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
